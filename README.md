@@ -1,4 +1,6 @@
-# Tabs-Plugin for Honkit
+# Markdown-Tabs for Honkit
+
+![Markdown-Tabs](demo.png)
 
 ## Usage
 
@@ -16,6 +18,6 @@ Tab Two Content
 
 | Test | Table |
 | ---- | ----- |
-| Geit | Güet  |
+| Well | Done  |
 <!-- tabs:end -->
 ```
